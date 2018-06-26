@@ -1,0 +1,1 @@
+{"cpu":{"name":"Arduino/Genuino MKR1000","com_name":"COM11","fqbn":"arduino:samd:mkr1000","flavour":"default"},"included_libs":[{"name":"WiFi","version":"1.2.6"}],"secrets":[{"name":"SECRET_SSID","value":""},{"name":"SECRET_PW","value":""},{"name":"SECRET_APPID","value":""}]}
