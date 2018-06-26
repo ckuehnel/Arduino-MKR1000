@@ -31,6 +31,7 @@ Upload the code contained in this sketch on to your board
  MKR1000_WakeUp                => Arduino sketch folder
   ├── MKR1000_WakeUp.ino       => main Arduino file
   ├── application.ino          => application running after wakeup
+  ├── functions.ino            => functions used in application
   └── ReadMe.adoc              => this file
 ....
 
@@ -39,7 +40,6 @@ This project is released under a {License} License.
 
 === Contributing
 To contribute to this project please contact ckuehnel <info@ckuehnel.ch>
-
 
 === Help
 This document is written in the _AsciiDoc_ format, a markup language to describe documents. 
