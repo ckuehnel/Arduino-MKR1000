@@ -1,0 +1,48 @@
+:Author: ckuehnel
+:Email: info@ckuehnel.ch
+:Date: 19/05/2018
+:Revision: version#
+:License: Public Domain
+
+= Project: {Project}
+
+Describe your project
+
+== Step 1: Installation
+Please describe the steps to install this project.
+
+For example:
+
+1. Open this file
+2. Edit as you like
+3. Release to the World!
+
+== Step 2: Assemble the circuit
+
+Nothing to assemble
+
+== Step 3: Load the code
+
+Upload the code contained in this sketch on to your board
+
+=== Folder structure
+
+....
+ MKR1000_WakeUp                => Arduino sketch folder
+  ├── MKR1000_WakeUp.ino       => main Arduino file
+  ├── application.ino          => application running after wakeup
+  ├── functions.ino            => functions used in application
+  └── ReadMe.adoc              => this file
+....
+
+=== License
+This project is released under a {License} License.
+
+=== Contributing
+To contribute to this project please contact ckuehnel <info@ckuehnel.ch>
+
+
+=== Help
+This document is written in the _AsciiDoc_ format, a markup language to describe documents. 
+If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
+or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
