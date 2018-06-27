@@ -28,9 +28,9 @@ Upload the code contained in this sketch on to your board
 === Folder structure
 
 ....
- MKR1000_PushOver               => Arduino sketch folder
-  ├── MKR1000_PushOver.ino      => main Arduino file
-  └── ReadMe.adoc               => this file
+ MKR1000_PushOver                => Arduino sketch folder
+  ├── MKR1000_PushOver.ino       => main Arduino file
+  └── ReadMe.adoc                => this file
 ....
 
 === License
