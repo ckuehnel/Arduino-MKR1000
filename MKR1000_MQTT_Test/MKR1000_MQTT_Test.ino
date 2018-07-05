@@ -17,8 +17,8 @@ const char* myPW = SECRET_PW;
 // MQTT (CloudMQTT)
 const char* BROKER = "m20.cloudmqtt.com";
 uint16_t    BRPORT = 12394;
-const char* BRUSER = "rawyjpid";
-const char* BRPWD  = "ah52k3gjd8JS";
+const char* BRUSER = "raxxxid";
+const char* BRPWD  = "ah52xxxd8JS";
 const char* CLIENTID = "MKR1000";
 
 #define DHTTYPE DHT11   // DHT 11
